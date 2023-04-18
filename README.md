@@ -18,6 +18,8 @@
 Сейчас:
 - CLR via C#
 - PostgreSQL
+- .NET
+- ASP.NET
 - Стать амбассадором ВК
 - Собрать портфолио в GitHub
 
