@@ -44,6 +44,7 @@
 - Angular
 - Терминал (углубленно)
 - Асинхронное программирование
+- Юнит тесты и автоматизированное тестированние
 
 <!---
 Star-Kuller/Star-Kuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
