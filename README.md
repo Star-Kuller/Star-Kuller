@@ -17,22 +17,24 @@
 - Scrum
 - PostgreSQL
 - Поиск информации с помощью нейросетей
+- REST
 
 Сейчас:
 - CLR via C#
 - .NET
 - ASP.NET
-- REST
 - ASP.NET MVC
 - HTML
 - CSS
+- The Clean Arhitecture
+- DI
 - Стать амбассадором ВК
 - Собрать портфолио в GitHub
-- Kanban
 - Entity Framework
 - Проект: Электронный книжный магазин с возможностью чтения
 
 В ближайшие несколько месяцев:
+- Kanban
 - Архитектурные паттерны
 - EIP паттерны
 - Паттерны для работы с БД
