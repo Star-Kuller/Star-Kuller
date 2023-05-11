@@ -18,6 +18,8 @@
 - PostgreSQL
 - Поиск информации с помощью нейросетей
 - REST
+- DI
+- The Clean Arhitecture
 
 Сейчас:
 - CLR via C#
@@ -26,8 +28,6 @@
 - ASP.NET MVC
 - HTML
 - CSS
-- The Clean Arhitecture
-- DI
 - Стать амбассадором ВК
 - Собрать портфолио в GitHub
 - Entity Framework
