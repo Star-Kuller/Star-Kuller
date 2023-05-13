@@ -20,17 +20,17 @@
 - REST
 - DI
 - The Clean Arhitecture
+- .NET
+- Entity Framework
+- ASP.NET
 
 Сейчас:
 - CLR via C#
-- .NET
-- ASP.NET
 - ASP.NET MVC
 - HTML
 - CSS
 - Стать амбассадором ВК
 - Собрать портфолио в GitHub
-- Entity Framework
 - Проект: Электронный книжный магазин с возможностью чтения
 
 В ближайшие несколько месяцев:
