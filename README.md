@@ -23,11 +23,11 @@
 - .NET
 - Entity Framework
 - ASP.NET
+- HTML
 
 Сейчас:
 - CLR via C#
 - ASP.NET MVC
-- HTML
 - CSS
 - Собрать портфолио в GitHub
 - Проект: Электронный книжный магазин с возможностью чтения
