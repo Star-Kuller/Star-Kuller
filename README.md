@@ -23,7 +23,7 @@
 - DI
 - The Clean Arhitecture
 - .NET
-- Entity Framework
+- EF core
 - ASP.NET
 - HTML
 
@@ -31,13 +31,13 @@
 - CLR via C#
 - ASP.NET MVC
 - CSS
+- Логгирование
 - Собрать портфолио в GitHub
 - Проект: Электронный книжный магазин с возможностью чтения
 
 В ближайшие несколько месяцев:
 - Kanban
 - Caching
-- Логгирование
 - DDD
 - Архитектурные паттерны
 - EIP паттерны
@@ -59,6 +59,7 @@
 - T-SQL
 - JS
 - Angular
+- Blazor
 - Юнит тесты и автоматизированное тестированние
 
 <!---
