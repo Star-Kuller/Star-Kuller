@@ -26,16 +26,19 @@
 - EF core
 - ASP.NET
 - HTML
+- CSS
 
 Сейчас:
 - CLR via C#
-- ASP.NET MVC
-- CSS
+- ASP.NET Filters and Attributes
+- Razor Pages
 - Логгирование
 - Собрать портфолио в GitHub
-- Проект: Электронный книжный магазин с возможностью чтения
+- Проект: Сайт на HTML+CSS
 
 В ближайшие несколько месяцев:
+- Проект: Электронный книжный магазин с возможностью чтения
+- Nginx
 - Kanban
 - Caching
 - DDD
@@ -50,7 +53,6 @@
 - flutter
 - Чистый код
 - Azure
-- ASP.NET
 - MY SQL
 - Поисковые движки
 - Нереалиционные БД
