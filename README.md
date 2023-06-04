@@ -35,8 +35,10 @@
 - Логгирование
 - Собрать портфолио в GitHub
 - Проект: Сайт на HTML+CSS
+- Проект: Игра на Arduino
 
 В ближайшие несколько месяцев:
+- Проект: Простая игровая приставка
 - Проект: Электронный книжный магазин с возможностью чтения
 - Nginx
 - Kanban
@@ -63,9 +65,8 @@
 - Angular
 - Blazor
 - Юнит тесты и автоматизированное тестированние
-
-<!---
-Star-Kuller/Star-Kuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+"Долгий ящик" (Хочу сделать в ближайший год):
+- Умные часы на базе микроконтроллера ESP32
+- Сайт визитка
+- IO-игра на JS
+- Игра Gravi на Unity
