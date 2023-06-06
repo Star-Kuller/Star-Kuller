@@ -25,8 +25,8 @@
 - .NET
 - EF core
 - ASP.NET
-- HTML
-- CSS
+- HTML + CSS
+- Индексы в БД и их создание в PostgreSQL
 
 Сейчас:
 - CLR via C#
