@@ -23,6 +23,7 @@
 - DI
 - The Clean Arhitecture
 - .NET
+- ORM
 - EF core
 - ASP.NET
 - HTML + CSS
@@ -53,7 +54,6 @@
 - Больше паттернов
 - BDD
 - Мобильная разработка
-- ORM
 - flutter
 - Чистый код
 - Azure
