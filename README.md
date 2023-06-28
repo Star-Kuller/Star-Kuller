@@ -12,7 +12,6 @@
 - TCP/IP
 - SQL
 - Паттерны GoF
-- .NET
 - Терминал
 - Компьютерные сети и протоколы передачи данных
 - Unity
@@ -21,7 +20,7 @@
 - Поиск информации с помощью нейросетей
 - REST
 - DI
-- The Clean Arhitecture
+- Принципы чистой архитектуры
 - .NET
 - ORM
 - EF core
@@ -66,7 +65,7 @@
 - Нереалиционные БД
 - Kafka
 - Docker
-- T-SQL
+- MS SQL
 - Angular
 - Blazor
 
