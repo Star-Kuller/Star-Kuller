@@ -4,14 +4,15 @@
 Активно учавствую в хаккатонах.
 ### Backend
 Я пишу на ASP.NET Core и использую следующие технологии:
-- Blazor
-- SignalR
-- REST API
-- gRPC
+- ASP.NET core
+  - Blazor
+  - SignalR
+  - REST API
+  - gRPC
 - PostgreSQL
 - Redis
 - EF Core
-- NGinx
+- XUnit | NUnit + Moq
 - Docker
 ### Frontend
 Я владею следующими технологиями для разработки Frontend:
@@ -19,7 +20,7 @@
 - HTML
 - CSS
 - Bootstrap
-- Планирую изучить Angular
+- Планирую изучить Angular и TypeScript.
 ### Gamedev
 - Для разработки игр я использую Unity.
 ### Микроконтроллеры
